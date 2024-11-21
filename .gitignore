@@ -1,0 +1,5 @@
+private.key
+node_modules
+.env
+certificate.crt
+csr.csr
